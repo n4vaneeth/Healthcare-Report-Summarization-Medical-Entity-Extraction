@@ -1,0 +1,21 @@
+{
+    "summary": "The patient presented with chest pain and dizziness. A history of hypertension and diabetes was noted. ECG evaluation was performed, and continuation of medication with follow-up was advised.",
+    "entities": {
+        "Disease": [
+            "Hypertension",
+            "Type 2 Diabetes Mellitus"
+        ],
+        "Medication": [
+            "Amlodipine",
+            "Metformin"
+        ],
+        "Symptoms": [
+            "Chest Pain",
+            "Dizziness"
+        ],
+        "Procedure": [
+            "ECG",
+            "Echocardiogram"
+        ]
+    }
+}
