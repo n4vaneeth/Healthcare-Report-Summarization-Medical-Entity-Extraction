@@ -1,0 +1,24 @@
+Patient Name: John Doe
+Age: 54
+
+Chief Complaint:
+Persistent chest pain and occasional dizziness for three days.
+
+History:
+Patient has a history of hypertension and type 2 diabetes mellitus.
+
+Medications:
+Amlodipine 5 mg daily
+Metformin 500 mg twice daily
+
+Examination:
+Blood pressure was 150/95 mmHg.
+ECG was performed.
+
+Assessment:
+Hypertension with possible cardiac involvement.
+
+Plan:
+Continue current medications.
+Schedule echocardiogram.
+Follow-up after one week.
