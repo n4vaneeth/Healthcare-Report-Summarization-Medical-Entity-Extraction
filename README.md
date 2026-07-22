@@ -147,13 +147,18 @@ Run all cells to:
 
 ---
 
-## 👨‍💻 Author
+## Contributors
 
-**Navaneeth S**
+- Navaneeth S (GitHub: @n4vaneeth)
+- Adithyan S (GitHub: @iamadithyans)
+
+This project was developed collaboratively as part of our academic work.
 
 - LinkedIn: https://www.linkedin.com/in/navaneeth-s21
+- https://www.linkedin.com/in/adithyan-s-835634283/
+- 
 - GitHub: https://github.com/n4vaneeth
-
+ - https://github.com/iamadithyans
 ---
 
 ⭐ If you found this project useful, consider giving it a star!
